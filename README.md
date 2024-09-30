@@ -9,8 +9,8 @@ An IT professional specializing in cybersecurity, with hands-on experience in SI
 
 | **Skill**                                     | **Associated Project**                                                                                                                                       |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://tryhackme.com/jr/sidechannelattackspectre">Azure Sentinel Implementation</a>                                                                 |
-| Network Traffic Monitoring and Attack Detection | <a href="https://tryhackme.com/jr/sidechannelattackspectre">Azure Sentinel Workbook Development</a>                                                          |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/PehanIn/SIEM-Lab/tree/main">Azure Sentinel Lab</a>                                                                 |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/PehanIn/SIEM-Lab/tree/main">Azure Sentinel Lab</a>                                                          |
 | Incident Response Planning and Execution      | Established and tested incident response plans for various attack scenarios within a simulated environment.                                                   |
 | Scripting and Automation for Threat Mitigation | Created PowerShell scripts to enhance threat detection and mitigation for Windows-based environments.                                                         |
 | Active Directory and Server Configuration     | Set up a virtual Active Directory environment with DNS, DHCP, RAS (NAT/PAT), NTFS permissions, and file server configurations in a Windows environment.        |
@@ -41,6 +41,6 @@ An IT professional specializing in cybersecurity, with hands-on experience in SI
 </div>
 
 ## Projects
-  - Developed and documented the following tasks for Azure Sentinel (SIEM)
+  - <a href="https://github.com/PehanIn/SIEM-Lab/tree/main">Azure Sentinel Lab</a> 
   - Setup virtual Active Directory environment in a virtual machine
   - Implemented an Online Banking System
